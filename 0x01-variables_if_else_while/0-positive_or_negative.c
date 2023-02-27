@@ -4,7 +4,8 @@
 
 /**
  * main - A program that assigns random number to the variable n
- * return 0 (Success)
+ *
+ * Return: 0 (Success)
  */
 
 int main(void)
